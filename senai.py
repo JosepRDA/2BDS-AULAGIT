@@ -1,0 +1,2 @@
+senai="SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL"
+print(senai)
