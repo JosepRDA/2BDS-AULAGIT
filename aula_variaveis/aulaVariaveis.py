@@ -29,3 +29,9 @@ lista = [34,65,34,8,6,345,75]
 
 #TUPLAS - TUPLE - Semelhante às listas, mas são imutáveis
 tupla = (43,65)
+
+#DICIONÁRIO - DICT - coleção ordenada de pares chave-valor
+dicionario: dict = {"Nome": "Ana", "idade": 25}
+
+#CONJUNTOS - SET - Coleções de elementos únicos sem ordem definida
+colecaoDeLetras = {"a", "b", "c"} 
